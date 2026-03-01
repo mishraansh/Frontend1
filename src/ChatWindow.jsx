@@ -43,7 +43,7 @@ useEffect(() => {
 }, [ reply ]);
 
   return (
-    <div className="chatWindow">
+    <div className="window">
       
       <div className="navbar">
         <span>
